@@ -11,6 +11,7 @@ com\expedia\pages\Headers\HomeHeader\Flights\OneWayButtonPage.class
 com\expedia\pages\Headers\HomeHeader\HomeHeaderPage.class
 com\expedia\pages\Headers\HomeHeader\FlightPlusHotel\FlightPlusCarButtonPage.class
 com\expedia\baseclasses\PageBase.class
+com\expedia\testscripts\FrameworkTest.class
 com\expedia\pages\Headers\HotelsHeader\HotelsHeaderPage.class
 com\expedia\settings\BrowserType.class
 com\expedia\pages\Headers\HotelsHeader\Hotels\HotelOnlyTabPage.class

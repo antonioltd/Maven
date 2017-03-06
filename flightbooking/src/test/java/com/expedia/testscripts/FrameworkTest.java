@@ -36,7 +36,7 @@ public class FrameworkTest {
 	@BeforeClass
 	public void beforeClass() {
 		
-		base = new PageBase(driver);
+		//base = new PageBase(driver);
 		HHPage = new HomeHeaderPage(driver);
 		FTPage = new FlightsTabPage(driver);
 		RBPage = new ReturnButtonPage(driver);
