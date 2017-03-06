@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+
+
+<suite name="TestSuite">
+
+
+	<test name="FireFox Test">
+
+		<classes>
+
+
+			<class name="com.expedia.testscripts.FrameworkTest">
+
+				<methods>
+
+					<include name="OneWayFlightTest" />
+
+				</methods>
+
+			</class>
+
+		</classes>
+
+	</test>
+
+</suite>
